@@ -1,0 +1,74 @@
+INFO 2025-04-18 12:26:10,412 autoreload 30932 8238903872 Watching for file changes with StatReloader
+WARNING 2025-04-18 12:26:16,412 log 30932 6202978304 Not Found: /
+WARNING 2025-04-18 12:26:16,414 basehttp 30932 6202978304 "GET / HTTP/1.1" 404 2469
+WARNING 2025-04-18 12:26:16,553 log 30932 6219804672 Not Found: /apple-touch-icon-precomposed.png
+WARNING 2025-04-18 12:26:16,554 basehttp 30932 6219804672 "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2583
+WARNING 2025-04-18 12:26:16,568 log 30932 6219804672 Not Found: /apple-touch-icon.png
+WARNING 2025-04-18 12:26:16,569 basehttp 30932 6219804672 "GET /apple-touch-icon.png HTTP/1.1" 404 2547
+WARNING 2025-04-18 12:26:16,675 log 30932 6202978304 Not Found: /favicon.ico
+WARNING 2025-04-18 12:26:16,675 basehttp 30932 6202978304 "GET /favicon.ico HTTP/1.1" 404 2520
+INFO 2025-04-18 12:26:20,398 basehttp 30932 6202978304 "GET /admin/adminapp/projects/add/ HTTP/1.1" 302 0
+INFO 2025-04-18 12:26:20,447 basehttp 30932 6202978304 "GET /admin/login/?next=/admin/adminapp/projects/add/ HTTP/1.1" 200 4228
+INFO 2025-04-18 12:26:20,490 basehttp 30932 6253457408 "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-04-18 12:26:20,490 basehttp 30932 6303936512 "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2025-04-18 12:26:20,490 basehttp 30932 6236631040 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+INFO 2025-04-18 12:26:20,491 basehttp 30932 6287110144 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-04-18 12:26:20,491 basehttp 30932 6202978304 "GET /static/admin/css/base.css HTTP/1.1" 200 22154
+INFO 2025-04-18 12:26:20,491 basehttp 30932 6270283776 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-04-18 12:26:20,492 basehttp 30932 6253457408 "GET /static/admin/css/responsive.css HTTP/1.1" 200 16632
+INFO 2025-04-18 12:26:22,472 basehttp 30932 6236631040 "GET /admin/adminapp/projects/add/ HTTP/1.1" 302 0
+INFO 2025-04-18 12:26:22,485 basehttp 30932 6287110144 "GET /admin/login/?next=/admin/adminapp/projects/add/ HTTP/1.1" 200 4228
+INFO 2025-04-18 12:26:23,093 basehttp 30932 6202978304 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-04-18 12:26:23,110 basehttp 30932 6303936512 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4184
+INFO 2025-04-18 12:26:32,881 basehttp 30932 6236631040 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-04-18 12:26:32,938 basehttp 30932 6287110144 "GET /admin/ HTTP/1.1" 200 7730
+INFO 2025-04-18 12:26:32,947 basehttp 30932 6270283776 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-04-18 12:26:32,977 basehttp 30932 6202978304 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-04-18 12:26:32,977 basehttp 30932 6253457408 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-04-18 12:26:51,291 basehttp 30932 6236631040 "GET /admin/auth/group/add/ HTTP/1.1" 200 13206
+INFO 2025-04-18 12:26:51,313 basehttp 30932 6303936512 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2025-04-18 12:26:51,313 basehttp 30932 6202978304 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-04-18 12:26:51,315 basehttp 30932 6287110144 "GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+INFO 2025-04-18 12:26:51,318 basehttp 30932 6236631040 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+INFO 2025-04-18 12:26:51,322 basehttp 30932 6253457408 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2025-04-18 12:26:51,337 basehttp 30932 6287110144 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-04-18 12:26:51,337 basehttp 30932 6303936512 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2025-04-18 12:26:51,339 basehttp 30932 6253457408 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-04-18 12:26:51,340 basehttp 30932 6202978304 "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2025-04-18 12:26:51,340 basehttp 30932 6287110144 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-04-18 12:26:51,342 basehttp 30932 6303936512 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-04-18 12:26:51,342 basehttp 30932 6287110144 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15709
+INFO 2025-04-18 12:26:51,343 basehttp 30932 6253457408 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+INFO 2025-04-18 12:26:51,344 basehttp 30932 6236631040 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2025-04-18 12:26:51,347 basehttp 30932 6270283776 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-18 12:26:51,427 basehttp 30932 6202978304 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2025-04-18 12:26:51,427 basehttp 30932 6287110144 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2025-04-18 12:26:56,992 basehttp 30932 6253457408 "GET /admin/events/event/add/ HTTP/1.1" 200 18560
+INFO 2025-04-18 12:26:57,006 basehttp 30932 6270283776 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2025-04-18 12:26:57,007 basehttp 30932 6202978304 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-04-18 12:26:57,046 basehttp 30932 6236631040 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-04-18 12:26:57,072 basehttp 30932 6287110144 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2025-04-18 12:26:57,072 basehttp 30932 6303936512 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2025-04-18 13:12:07,469 autoreload 35724 8238903872 Watching for file changes with StatReloader
+INFO 2025-04-18 13:24:02,838 autoreload 38118 8238903872 Watching for file changes with StatReloader
+WARNING 2025-04-18 13:24:23,119 log 38118 6200422400 Not Found: /
+WARNING 2025-04-18 13:24:23,120 basehttp 38118 6200422400 "GET / HTTP/1.1" 404 2469
+WARNING 2025-04-18 13:24:27,056 log 38118 6200422400 Not Found: /
+WARNING 2025-04-18 13:24:27,058 basehttp 38118 6200422400 "GET / HTTP/1.1" 404 2469
+INFO 2025-04-18 13:24:27,436 basehttp 38118 6200422400 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-04-18 13:24:27,476 basehttp 38118 6200422400 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4184
+INFO 2025-04-18 13:24:27,488 basehttp 38118 6200422400 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-04-18 13:24:27,491 basehttp 38118 6200422400 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-04-18 13:24:27,492 basehttp 38118 6234075136 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-04-18 13:24:27,492 basehttp 38118 6217248768 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-04-18 13:24:27,492 basehttp 38118 6250901504 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-04-18 13:24:27,492 basehttp 38118 6267727872 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-04-18 13:24:27,493 basehttp 38118 6284554240 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-04-18 13:24:47,597 basehttp 38118 6200422400 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-04-18 13:24:47,749 basehttp 38118 6234075136 "GET /admin/ HTTP/1.1" 200 7730
+INFO 2025-04-18 13:24:47,796 basehttp 38118 6217248768 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-04-18 13:24:47,830 basehttp 38118 6267727872 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-04-18 13:24:47,830 basehttp 38118 6250901504 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-04-18 14:41:01,552 autoreload 38118 8238903872 /Users/macbook/adminpanelfortuing/turing_admin_panel/settings.py changed, reloading.
+INFO 2025-04-18 14:41:03,125 autoreload 43230 8238903872 Watching for file changes with StatReloader
+INFO 2025-04-18 14:41:26,578 autoreload 43274 8238903872 Watching for file changes with StatReloader
